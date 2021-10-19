@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\obj\Debug\netcoreapp3.1\UC1AddressBook.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\obj\Debug\netcoreapp3.1\UC1AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\obj\Debug\netcoreapp3.1\UC1AddressBook.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\obj\Debug\netcoreapp3.1\UC1AddressBook.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\obj\Debug\netcoreapp3.1\UC1AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\bin\Debug\netcoreapp3.1\UC1AddressBook.exe
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\bin\Debug\netcoreapp3.1\UC1AddressBook.deps.json
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\bin\Debug\netcoreapp3.1\UC1AddressBook.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\bin\Debug\netcoreapp3.1\UC1AddressBook.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\bin\Debug\netcoreapp3.1\UC1AddressBook.dll
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\bin\Debug\netcoreapp3.1\UC1AddressBook.pdb
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\obj\Debug\netcoreapp3.1\UC1AddressBook.dll
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\obj\Debug\netcoreapp3.1\UC1AddressBook.pdb
+C:\Users\91807\Desktop\Batch67\UC1AddressBook\obj\Debug\netcoreapp3.1\UC1AddressBook.genruntimeconfig.cache
